@@ -1,6 +1,6 @@
 
 
-FROM tecmint-web
+FROM shankyvit/http
 
 ADD . /var/www/html
 
